@@ -1,4 +1,4 @@
 # bookbot
-# Python Book bot
+Python Book bot
 
-
+BookBot is my first git project!
